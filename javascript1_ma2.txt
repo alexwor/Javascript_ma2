@@ -1,0 +1,24 @@
+//MODULE ASSIGNMENT 2 - LEVEL 1
+
+1. What is a function literal?
+A function literal is an expression that defines an unnamed function.
+
+2. What is the constructor?
+The constructor is a function used to create an object instance.
+
+3. What does the return statement do?
+The function will be stopped when it reaches the return statement, anything after the return statement will not be executed.
+
+4. What will be written to the console from this function:
+		function myFunction(){
+			  return console.log('inside my function');
+			  console.log('My name is Andy');
+		}
+		myFunction();
+
+		Inside my function.
+
+
+5. Briefly describe scope in JavaScript.
+There are two scopes in Javascript, global and local. Scope refers to the context of the code. Global scope is when you define a variable before you write any javascript.
+Local is defined inside a function.
